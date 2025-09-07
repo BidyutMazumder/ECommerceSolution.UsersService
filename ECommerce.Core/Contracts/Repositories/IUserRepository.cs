@@ -1,6 +1,6 @@
 ﻿using ECommerce.Core.Entities;
 
-namespace ECommerce.Core.Contracts.Repository;
+namespace ECommerce.Core.Contracts.Repositories;
  
 public interface IUserRepository
 {
